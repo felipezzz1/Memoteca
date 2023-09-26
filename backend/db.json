@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "ola",
+      "autoria": "dev",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "er",
+      "autoria": "pedro",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "oi",
+      "autoria": "asasas",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "digitei algo aqui meudeus do ceu",
+      "autoria": "fe",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
